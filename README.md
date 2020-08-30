@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I am Abdelkhalek ZELLAT, 20 years old, Computer Engineering Student and Software Engineer at [Maystro Delivery](https://maystro-delivery.com/). Microsoft Learn Ambassador and Cloud Ambassador at AWS Educate.
+I am Abdelkhalek ZELLAT, 20 years old, Computer Engineering Student and Software Engineer at [Maystro Delivery](https://maystro-delivery.com/).
 
 I am always interested in learning and discover new things, and I enjoy helping other developers by answering their questions and giving talks and presentations about Software engineering.
 
